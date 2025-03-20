@@ -37,4 +37,7 @@
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" style="margin: 4px">
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" style="margin: 4px">
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" style="margin: 4px">
+    <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" style="margin: 4px">
+    <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" style="margin: 4px">
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java-script/javascript-plain.svg" style="margin: 4px">
 </p>

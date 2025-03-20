@@ -47,3 +47,18 @@
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" style="margin: 4px">
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" style="margin: 4px">
 </p>
+
+## My GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=brice10&show_icons=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brice10&layout=compact" />
+  </a>
+</p>
+
+<div style="margin: 15px">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brice10&bg_color=ffffff&color=5b7288&line=9dc2de&point=828fa2&area=true&area_color=badbe9&days=21&hide_border=true&height=350&radius=14"/>
+</div>

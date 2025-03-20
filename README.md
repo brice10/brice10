@@ -1,7 +1,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins+Marker&size=48&duration=4000&pause=1000&center=true&vCenter=true&random=true&width=500&height=90&lines=Hi+There!%F0%9F%91%8B;I'm+Arleon+Zemtsop!"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=48&duration=4000&pause=1000&center=true&vCenter=true&random=true&width=500&height=90&lines=Hi+There!%F0%9F%91%8B;I'm+Arleon+Zemtsop!"/>
 </div>
 
 <!--

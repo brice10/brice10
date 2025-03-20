@@ -15,6 +15,13 @@
 <p align="center">
           <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="margin: 4px">
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="margin: 4px">
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" style="margin: 4px">
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" style="margin: 4px">
+          <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css5-plain.svg" style="margin: 4px">
+          <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" style="margin: 4px">
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-plain.svg" style="margin: 4px">
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" style="margin: 4px">
+          <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-plain.svg" style="margin: 4px">
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="margin: 4px">
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="margin: 4px">
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" style="margin: 4px">
@@ -38,6 +45,4 @@
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" style="margin: 4px">
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" style="margin: 4px">
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" style="margin: 4px">
-    <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" style="margin: 4px">
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java-script/javascript-plain.svg" style="margin: 4px">
 </p>

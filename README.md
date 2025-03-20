@@ -20,7 +20,7 @@
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" style="margin: 4px">
           <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" style="margin: 4px">
           <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" style="margin: 4px">
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/icons/npm/npm-original-wordmark.svg" style="margin: 4px">
+<img height="48" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/npm/npm-original-wordmark.svg" style="margin: 4px">
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" style="margin: 4px">
           <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" style="margin: 4px">
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="margin: 4px">

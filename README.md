@@ -4,10 +4,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=48&duration=5000&pause=1000&center=true&vCenter=true&random=true&width=500&height=90&lines=Hi+There!%F0%9F%91%8B;I'm+Arleon+Zemtsop!;AKA+Cerberus"/>
 </div>
 
-- 👋 Hi, I'm Arléon Zemtsop, a phd student of the Inria laboratory of the university of Lille working on Autonomic Computing and Self-Adaptation. </br>
-- 👀 I'm currently working as a research engineer at the Inria Research center of the University of Lille in France. </br>
-- 🌱 I'm interested in the fields of Autonomous System, Microservices, BPM, LLM, and AIOps, and I am currently seeking a PhD opportunity in these areas. </br>
-- 💞️ I’m looking to collaborate on achieving The Vision of Autonomic Computing by resolving the challenge of Control VS Autonomy using BPM and LLM. </br>
+- 👋 Hi, I'm Arléon Zemtsop, a software engineer and devops</br>
+- 👀 I'm currently working as a phd student at the Inria Research center of the University of Lille in France. </br>
+- 🌱 I'm interested in the fields of Autonomous Computing, Cloud Computing, Self-Adaptation, Microservices, BPM, LLM-agents. </br>
+- 💞️ I’m looking to collaborate on achieving The Vision of Autonomic Computing by building a Benchmark for Self-Adaptive Microservices in the Cloud. </br>
 - 📫 If you are interested in working with me or have novel ideas, please contact me at arleonzemtsop@gmail.com </br>
 
 ## Languages & Frameworks & Tools
